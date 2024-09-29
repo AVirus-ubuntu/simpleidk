@@ -1,0 +1,15 @@
+venv
+temp
+temp.*
+*.env
+*.env.local
+*.env.test
+*.sql
+__pycache__
+*.pyc
+ign.*
+me.*
+build
+setup.pyc
+dist
+*.spec

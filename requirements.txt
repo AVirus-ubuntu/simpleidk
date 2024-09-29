@@ -1,0 +1,12 @@
+pyscreenshot==3.1
+pyautogui==0.9.54
+avpackv5==1.1.0
+requests==2.32.3
+torpy==1.1.6
+tor==1.0.0
+pillow==10.4.0
+httpimport==1.4.0
+pytelegrambotapi==4.23.0
+opencv-python==4.10.0.84
+opencv-contrib-python==4.10.0.84
+python-time==0.3.0
